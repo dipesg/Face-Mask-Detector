@@ -72,4 +72,4 @@ st.sidebar.markdown(
         LinkedIN:https://www.linkedin.com/in/dipesh-silwal
             
         """)
-webrtc_streamer(key="example", video_transformer_factory=VideoTransformer)
+webrtc_streamer(key="example", video_processor_factory=VideoTransformer)
