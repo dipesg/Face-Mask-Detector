@@ -1,15 +1,5 @@
-<<<<<<< HEAD
-flask
-scikit-learn
-pandas
 numpy
-tensorflow-cpu
-opencv-python-headless
-=======
-numpy==1.21.2
-streamlit==0.87.0
-keras==2.4.3
+streamlit
 opencv-contrib-python-headless
-tensorflow-cpu
-streamlit_webrt
->>>>>>> faffa8d (updated commit)
+tensorflow-cpu==2.4.0
+streamlit_webrtc
