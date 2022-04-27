@@ -8,6 +8,12 @@
     
     
 ### Arcitechture
+<p align="middle">
+    <img src="./images/highlevel.png" height=300 width=450>
+    
+### Model Training Overview
+<p align="middle">
+    <img src="./images/training.png" height=300 width=450>
 
     
 ### :woman_technologist: Introduction
