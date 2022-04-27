@@ -6,6 +6,10 @@
     <img src="./images/1-with-mask.png" height=300 width=450>
     <img src="./images/2-with-mask.png" height=300 width=450>
     
+    
+### Arcitechture
+
+    
 ### :woman_technologist: Introduction
 
 In the COVID-19 crisis wearing masks is absolutely necessary for public health and in terms of controlling the spread of the pandemic. 
