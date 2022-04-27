@@ -50,8 +50,8 @@ class VideoTransformer(VideoTransformerBase):
         #cv2.imshow("Frame", frame)
         return img
 
-st.header("Webcam Live Feed")
-st.write("Click on start to use webcam and detect your face emotion")
+st.header("Webcam Live Face Mask Detection.")
+st.write("Click on start to use webcam and detect face mask")
 html_temp_home1 = """<div style="background-color:#6D7B8D;padding:10px">
                                             <h4 style="color:white;text-align:center;">
                                             Face Mask detection application using OpenCV, Custom CNN model and Streamlit.</h4>
